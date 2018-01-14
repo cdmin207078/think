@@ -7,7 +7,6 @@ class News {
   }
 
   public function hello() {
-    echo 'hello - news page';
-    
+    echo 'hello - news page'; 
   }
 }
